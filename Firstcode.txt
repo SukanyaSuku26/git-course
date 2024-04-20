@@ -1,2 +1,8 @@
 Hello World !!
+git commit -c
+take input from users
+add some values
 
+
+
+This is my project
